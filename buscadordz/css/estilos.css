@@ -1,0 +1,122 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.link-1{
+    color: unset;
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+#input-search{
+    margin-left: 20px;
+    margin-top: 50px;
+    width: 1316px;
+    height: 40px;
+    font-size: 20px;
+    text-indent: 10px;
+}
+
+.content-search{
+    width: 97%;
+    height: 33vh;
+    margin-left: 20px;
+    position: fixed;
+    top: 93px;
+    left: 0;
+    background: rgba(0,0,0,0.3);
+    display: none;
+}
+
+.content-table{
+    width: 99%;
+    max-height: 200px;
+    height: auto;
+    background: rgba(0,0,0,0.3);
+    margin-left: 10px;
+    overflow-y: visible;
+    overflow-x: hidden;
+}
+
+.content-table table{
+    width: 100%;
+}
+
+tbody tr td a{
+    display: block;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+}
+
+tbody tr td a:hover{
+    background: rgba(0,0,0,0.3);
+}
+
+#table_length, #table_filter, #table_info, #table_paginate{
+    display: none;
+}
+
+.I{
+    position: fixed;
+
+        margin-left: 5px;
+}
+
+.J{
+    position: fixed;
+     margin-left: 120px;
+     font-size: px;
+}
+
+.A{
+    position: fixed;
+     margin-left: 270px;
+     font-size: px;
+}
+
+.C{
+    position: fixed;
+    margin-left: 400px;
+}
+.N{
+    position: fixed;
+    margin-left: 610px;
+}
+.CO{
+     position: fixed;
+    margin-left: 780px;
+}
+
+.B{
+     position: fixed;
+   margin-left: 970px;
+}
+
+.botones{
+    margin-left: 100px;
+    
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: blue;
+    background-color: gray;
+    
+
+    
+}
+
+ .button{
+	 	color: #0000ff
+	 }
+
+	 a {
+	 	text-decoration: none;
+	 }
